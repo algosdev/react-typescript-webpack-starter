@@ -1,6 +1,6 @@
 ## Download the starter kit
 
-npx degit https://github.com/gopinav/React-TypeScript-Webpack-Starter my-app
+npx degit https://github.com/algosdev/react-typescript-webpack-starter my-app
 
 ## Install dependencies
 
